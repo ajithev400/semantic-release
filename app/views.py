@@ -10,9 +10,9 @@ def home(request):
     return HttpResponse("home")
 
 def register(request):
-    print("register")
+    # print("register")
     return HttpResponse("Register")
 
 def login(request):
-    print("login")
+    # print("login")
     return HttpResponse("login")
