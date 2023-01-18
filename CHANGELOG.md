@@ -1,3 +1,10 @@
+## 1.1.1 (2023-01-18)
+
+### Fix
+
+- change in function
+- change in function
+
 ## 1.1.0 (2023-01-18)
 
 ### Feat
