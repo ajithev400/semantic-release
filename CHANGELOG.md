@@ -1,3 +1,11 @@
+## 1.1.4 (2023-01-19)
+
+### Fix
+
+- app view updated
+- app views updated
+- seman tic release changes
+
 ## 1.1.3 (2023-01-19)
 
 ### Fix
