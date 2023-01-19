@@ -6,7 +6,7 @@ def index(request):
     return HttpResponse('hello all')
 
 def home(request):
-
+    print("home")
     return HttpResponse("home")
 
 def register(request):

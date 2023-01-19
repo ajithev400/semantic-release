@@ -1,5 +1,4 @@
-
-name: sematic version
+name: Semantic release
 
 on:
   push:
